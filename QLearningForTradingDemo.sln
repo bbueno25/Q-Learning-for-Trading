@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "q_learning_for_trading_demo", "q_learning_for_trading_demo\q_learning_for_trading_demo.pyproj", "{DF7B75E7-939D-4737-8E3A-A51CAA55955F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7B75E7-939D-4737-8E3A-A51CAA55955F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7B75E7-939D-4737-8E3A-A51CAA55955F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B22243D-248A-43AB-9BCD-0F04FC407813}
+	EndGlobalSection
+EndGlobal
